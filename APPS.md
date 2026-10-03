@@ -604,21 +604,21 @@ Une application peut être disponible pour `arm64` mais rencontrer malgré tout 
 
 ### OpenStore
 
-👉 [OpenStore — applications Ubuntu Touch](https://open-store.io/?utm_source=chatgpt.com)
+👉 [OpenStore — applications Ubuntu Touch](https://open-store.io/)
 
 L'OpenStore est la logithèque officielle d'Ubuntu Touch.
 
 ### UBports
 
-👉 [Documentation UBports](https://docs.ubports.com/?utm_source=chatgpt.com)
+👉 [Documentation UBports](https://docs.ubports.com/)
 
 ### Libertine
 
-👉 [Documentation Libertine](https://docs.ubports.com/en/latest/userguide/dailyuse/libertine.html?utm_source=chatgpt.com)
+👉 [Documentation Libertine](https://docs.ubports.com/en/latest/userguide/dailyuse/libertine.html)
 
 ### Waydroid
 
-👉 [Documentation Waydroid](https://docs.ubports.com/en/latest/userguide/dailyuse/waydroid.html?utm_source=chatgpt.com)
+👉 [Documentation Waydroid](https://docs.ubports.com/en/latest/userguide/dailyuse/waydroid.html)
 
 ---
 
