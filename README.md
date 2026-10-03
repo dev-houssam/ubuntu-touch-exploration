@@ -46,7 +46,7 @@ Canonical a ensuite arrêté le développement officiel d'Ubuntu Touch. Le proje
 
 Aujourd'hui, UBports maintient donc le système, son infrastructure, ses outils et de nombreux ports pour différents appareils.
 
-[Site officiel des appareils Ubuntu Touch](https://devices.ubuntu-touch.io/?utm_source=chatgpt.com)
+[Site officiel des appareils Ubuntu Touch](https://devices.ubuntu-touch.io/)
 
 ---
 
@@ -157,7 +157,7 @@ Exemple :
 
 Le second niveau d'information permet de déterminer si le port Ubuntu Touch correspond réellement à l'appareil.
 
-[Liste officielle des appareils compatibles](https://devices.ubuntu-touch.io/?utm_source=chatgpt.com)
+[Liste officielle des appareils compatibles](https://devices.ubuntu-touch.io/)
 
 ---
 
@@ -333,7 +333,7 @@ Il existe des versions pour :
 * Ubuntu/Debian ;
 * autres distributions Linux.
 
-[Télécharger UBports Installer](https://devices.ubuntu-touch.io/installer/?utm_source=chatgpt.com)
+[Télécharger UBports Installer](https://devices.ubuntu-touch.io/installer/)
 
 ---
 
@@ -737,23 +737,23 @@ Ce n'est cependant pas nécessairement le meilleur choix pour quelqu'un qui dép
 
 ### Ubuntu Touch
 
-[Ubuntu Touch — appareils compatibles](https://devices.ubuntu-touch.io/?utm_source=chatgpt.com)
+[Ubuntu Touch — appareils compatibles](https://devices.ubuntu-touch.io/)
 
 ### UBports
 
-[Site officiel UBports](https://ubports.com/?utm_source=chatgpt.com)
+[Site officiel UBports](https://ubports.com/)
 
 ### UBports Installer
 
-[UBports Installer](https://devices.ubuntu-touch.io/installer/?utm_source=chatgpt.com)
+[UBports Installer](https://devices.ubuntu-touch.io/installer/)
 
 ### Documentation
 
-[Documentation UBports](https://docs.ubports.com/?utm_source=chatgpt.com)
+[Documentation UBports](https://docs.ubports.com/)
 
 ### FAQ
 
-[FAQ Ubuntu Touch / UBports](https://ubports.com/faq?utm_source=chatgpt.com)
+[FAQ Ubuntu Touch / UBports](https://ubports.com/faq)
 
 ---
 
